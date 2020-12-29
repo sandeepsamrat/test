@@ -1,1 +1,2 @@
-ample file
+sample file
+second line
